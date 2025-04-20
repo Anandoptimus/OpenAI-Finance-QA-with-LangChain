@@ -19,6 +19,11 @@ This project uses LangChain, OpenAI's GPT, and FAISS to create a Q&A system over
 
 **A:** ₹10,22,361 mn, a growth of 42.1% YoY but a decline of 3.5% QoQ
 
+## 🎯 Future Improvements
+- Streamlit frontend
+- CSV upload for financial reports
+- Multi-source document support
+
 ## 🔧 Setup Instructions
 
 ```bash
